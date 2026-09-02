@@ -48,6 +48,17 @@ Below are the main tools and technologies I work with:
 
 ---
 
+## 🧾 Languages
+
+Top languages I use in repositories and projects:
+
+<p align="center">
+  <img alt="HCL" src="https://img.shields.io/badge/-HCL-2bbc8a?style=for-the-badge&logo=hashicorp&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 A curated selection of repositories that demonstrate production-style patterns, automation, and platform work.
