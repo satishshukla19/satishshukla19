@@ -93,6 +93,17 @@ See my account for additional labs and tooling: kubernetes-labs, docker-labs, de
 ## 📈 GitHub Stats
 
 <p align="center">
+  <!-- Streak & contributions card similar to the screenshot -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satishshukla19&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <!-- Contribution calendar / activity graph -->
+  <img src="https://ghchart.rshah.org/satishshukla19" alt="Contribution chart" />
+</p>
+
+<p align="center">
+  <!-- Overall GitHub stats (summary) -->
   <img src="https://github-readme-stats.vercel.app/api?username=satishshukla19&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
 </p>
 
