@@ -1,30 +1,32 @@
 # Satish Shukla
 
-![GitHub followers](https://img.shields.io/github/followers/satishshukla19?label=Follow&style=social)
-
-Hi — I'm Satish, a cloud & DevOps-focused software engineer. I design production-ready infrastructure, platform tooling and developer-friendly automation for Azure and Kubernetes.
-
----
-
-<!-- HERO / STATS -->
+![banner](assets/banner.svg)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=satishshukla19&show_icons=true&theme=radical" alt="Satish's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishshukla19&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
----
-
-## What I do — High level
-
-- Design and implement cloud-native platforms and infrastructure using Terraform and Azure (AKS, ACR).
-- Build GitOps workflows (Argo CD), CI/CD pipelines (Azure Pipelines / GitHub Actions), and automation utilities in Python and Bash.
-- Harden pipelines and infrastructure with DevSecOps tooling (Checkov, TFLint, Gitleaks, Trivy, SonarQube).
-- Operate observability stacks (Prometheus, Grafana, Azure Monitor) and build resilient microservices on Kubernetes.
+<p align="center">
+  <a href="https://github.com/satishshukla19"><img alt="Follow on GitHub" src="https://img.shields.io/github/followers/satishshukla19?label=Follow&style=social"/></a>
+  <img alt="Twitter Follow" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</p>
 
 ---
 
-## Tools & Technologies
+## 📌 What I do — High level
+
+I design and build production-ready cloud platforms, automation tooling, and developer workflows. My focus areas:
+
+- Cloud-native infrastructure and platform engineering (Azure, AKS, ACR)
+- Infrastructure-as-Code with Terraform and reusable modules
+- GitOps (Argo CD), CI/CD pipelines, and developer productivity
+- DevSecOps: shift-left security scanning and secure pipeline practices
+- Observability: Prometheus, Grafana, Azure Monitor
+
+---
+
+## 🛠️ Tools & Technologies
 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -42,40 +44,60 @@ Hi — I'm Satish, a cloud & DevOps-focused software engineer. I design producti
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-A curated selection of repos that showcase production-style patterns, automation, and platform work.
+A curated selection of repositories that demonstrate production-style patterns, automation, and platform work.
 
-- [aks-production](https://github.com/satishshukla19/aks-production) — Production-style AKS architecture: networking, identity, ingress, autoscaling, security, monitoring, and workload deployment.
-- [azure-infrastructure](https://github.com/satishshukla19/azure-infrastructure) — Complete Azure environment built with Terraform.
-- [terraform-landing-zone](https://github.com/satishshukla19/terraform-landing-zone) — Enterprise Landing Zone patterns (Hub-Spoke, governance, RBAC, policies).
-- [gitops-argocd](https://github.com/satishshukla19/gitops-argocd) — GitOps pipelines using Argo CD for automated Kubernetes delivery.
-- [terraform-modules](https://github.com/satishshukla19/terraform-modules) — Reusable Terraform modules for environments and services.
-- [microservices-aks-acr](https://github.com/satishshukla19/microservices-aks-acr) — Example microservices platform on AKS with ACR and CI/CD integration.
+- [aks-production](https://github.com/satishshukla19/aks-production) 
+  ![stars](https://img.shields.io/github/stars/satishshukla19/aks-production?style=flat-square) ![ci](https://img.shields.io/badge/CI-%E2%9C%93-brightgreen)
+  
+  Production-style AKS architecture: networking, identity, ingress, autoscaling, security, monitoring, and workload deployment.
 
-(See my repos list below for more labs and tooling: kubernetes-labs, docker-labs, devsecops, monitoring-observability, python-devops-tools, kafka-devops, axion-system-build, God-s-Eye-View, bash-scripts and more.)
+- [azure-infrastructure](https://github.com/satishshukla19/azure-infrastructure) 
+  ![stars](https://img.shields.io/github/stars/satishshukla19/azure-infrastructure?style=flat-square) ![ci](https://img.shields.io/badge/CI-%E2%9C%93-brightgreen)
+  
+  Complete Azure environment built with Terraform (modules, state, automation).
+
+- [terraform-landing-zone](https://github.com/satishshukla19/terraform-landing-zone) 
+  ![stars](https://img.shields.io/github/stars/satishshukla19/terraform-landing-zone?style=flat-square) ![ci](https://img.shields.io/badge/CI-%E2%9C%93-brightgreen)
+  
+  Enterprise Landing Zone patterns: Hub-Spoke networking, governance, RBAC, and policies.
+
+- [gitops-argocd](https://github.com/satishshukla19/gitops-argocd) 
+  ![stars](https://img.shields.io/github/stars/satishshukla19/gitops-argocd?style=flat-square) ![ci](https://img.shields.io/badge/CI-%E2%9C%93-brightgreen)
+  
+  GitOps pipelines using Argo CD for automated Kubernetes delivery.
+
+- [terraform-modules](https://github.com/satishshukla19/terraform-modules) 
+  ![stars](https://img.shields.io/github/stars/satishshukla19/terraform-modules?style=flat-square) ![ci](https://img.shields.io/badge/CI-%E2%9C%93-brightgreen)
+  
+  Reusable Terraform modules for environments and services.
+
+- [microservices-aks-acr](https://github.com/satishshukla19/microservices-aks-acr) 
+  ![stars](https://img.shields.io/github/stars/satishshukla19/microservices-aks-acr?style=flat-square) ![ci](https://img.shields.io/badge/CI-%E2%9C%93-brightgreen)
+  
+  Example microservices platform on AKS with ACR and CI/CD integration.
 
 ---
 
-## Quick links
+## 📂 More repos & labs
+
+See my account for additional labs and tooling: kubernetes-labs, docker-labs, devsecops, monitoring-observability, python-devops-tools, kafka-devops, axion-system-build, God-s-Eye-View, bash-scripts, PyTodoBackendMonolith, ReactTodoUIMonolith.
+
+---
+
+## 📫 Quick links
 
 - GitHub: https://github.com/satishshukla19
-- LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/)  <!-- replace with your LinkedIn profile -->
+- LinkedIn: https://www.linkedin.com/  <!-- replace with your LinkedIn profile -->
 - Email: satish19.devops@gmail.com
 
 ---
 
-## Visuals & Badges (optional)
+## 🎯 What I can add next
 
-If you want a more colorful profile I can add:
-- A custom SVG banner or headshot
-- Per-repo badges (CI, coverage, Docker pulls)
-- Project screenshots or animated GIFs in a featured repo block
-
----
-
-If this looks good I will:
-- Replace the LinkedIn placeholder with your LinkedIn URL (please paste it here)
-- Add 3–4 repository screenshots (if you provide image files or let me capture READMEs)
-- Add repository-specific badges (CI status, docker pulls) on request
+- Replace the LinkedIn placeholder with your profile URL
+- Add project screenshots or animated GIFs for featured repos (upload or allow me to capture README images)
+- Add per-repo CI and Docker badges (I can detect workflows and Dockerfiles and add exact badges)
+- Tweak banner colors or tagline
 
