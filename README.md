@@ -36,17 +36,6 @@ Below are the main tools and technologies I work with:
 
 ---
 
-## 🧾 Languages
-
-Top languages I use in repositories and projects:
-
-<p align="center">
-  <img alt="HCL" src="https://img.shields.io/badge/-HCL-2bbc8a?style=for-the-badge&logo=hashicorp&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 A curated selection of repositories that demonstrate production-style patterns, automation, and platform work.
@@ -111,15 +100,7 @@ See my account for additional labs and tooling: kubernetes-labs, docker-labs, de
 ## 📫 Quick links
 
 - GitHub: https://github.com/satishshukla19
-- LinkedIn: https://www.linkedin.com/  <!-- replace with your LinkedIn profile -->
+- LinkedIn: [https://www.linkedin.com/  <!-- replace with your LinkedIn profile -->](https://www.linkedin.com/in/satish-shukla-466649205)
 - Email: satish19.devops@gmail.com
 
----
-
-## 🎯 What I can add next
-
-- Replace the LinkedIn placeholder with your profile URL
-- Add project screenshots or animated GIFs for featured repos (upload or allow me to capture README images)
-- Add per-repo CI and Docker badges (I can detect workflows and Dockerfiles and add exact badges)
-- Tweak banner colors or tagline
 
