@@ -1,20 +1,8 @@
 # Satish Shukla
 
-![banner](assets/banner.svg)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satishshukla19&show_icons=true&theme=radical" alt="Satish's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishshukla19&layout=compact&theme=radical" alt="Top languages" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/satishshukla19"><img alt="Follow on GitHub" src="https://img.shields.io/github/followers/satishshukla19?label=Follow&style=social"/></a>
-  <a href="https://www.linkedin.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-## 📌 What I do — High level
+## 🚀 About Me
 
 I design and build production-ready cloud platforms, automation tooling, and developer workflows. My focus areas:
 
