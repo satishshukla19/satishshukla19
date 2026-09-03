@@ -14,6 +14,15 @@ I design and build production-ready cloud platforms, automation tooling, and dev
 
 ---
 
+## 📊 Today's Activity (Sept 3, 2026)
+
+- **Today's Commits:** 10 contributions
+- **Active Repository:** axion-ui
+- **Focus:** GitHub Actions Workflow, Azure ACR/AKS Configuration
+- **Main Changes:** Workflow updates, Azure authentication, Docker image tagging
+
+---
+
 ## 🛠️ Tools & Technologies
 
 Below are the main tools and technologies I work with:
@@ -74,7 +83,7 @@ A curated selection of repositories that demonstrate production-style patterns, 
 
 ## 📂 More repos & labs
 
-See my account for additional labs and tooling: kubernetes-labs, docker-labs, devsecops, monitoring-observability, python-devops-tools, kafka-devops, axion-system-build, God-s-Eye-View, bash-scripts, PyTodoBackendMonolith, ReactTodoUIMonolith.
+See my account for additional labs and tooling: kubernetes-labs, docker-labs, devsecops, monitoring-observability, python-devops-tools, kafka-devops, axion-system-build, God-s-Eye-View, bash-scripts, and more!
 
 ---
 
@@ -100,7 +109,6 @@ See my account for additional labs and tooling: kubernetes-labs, docker-labs, de
 ## 📫 Quick links
 
 - GitHub: https://github.com/satishshukla19
-- LinkedIn: [https://www.linkedin.com/  <!-- replace with your LinkedIn profile -->](https://www.linkedin.com/in/satish-shukla-466649205)
+- LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/satish-shukla-466649205)
 - Email: satish19.devops@gmail.com
-
 
