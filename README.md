@@ -46,6 +46,59 @@ I build secure, scalable, and production-ready cloud platforms with a focus on A
 
 ---
 
+## 🏆 Achievements
+
+### Cloud & Infrastructure
+- ⭐ **Production AKS Architect** - Designed and deployed enterprise-grade Azure Kubernetes Service clusters with advanced networking, security, and autoscaling
+- 🌐 **Azure Landing Zone Expert** - Implemented hub-spoke architecture with governance, RBAC, and security policies for enterprise environments
+- 🏗️ **Infrastructure as Code Master** - Built modular, reusable Terraform modules for reproducible cloud infrastructure deployments
+- 🔐 **Azure Networking Specialist** - Architected VNets, subnets, NSGs, NAT Gateways, Private Endpoints, and DNS solutions
+- ☁️ **Cloud Migration Lead** - Orchestrated complete Azure environment migrations with zero downtime
+
+### Kubernetes & Containerization
+- 🐳 **Kubernetes Platform Engineer** - Mastered Deployments, Services, ConfigMaps, Secrets, HPA, RBAC, and advanced K8s patterns
+- 📦 **Helm Charts Developer** - Created production-grade, reusable Helm charts for consistent application deployment
+- 🔄 **Container Optimization Expert** - Built multi-stage Docker files and container orchestration workflows for efficient deployments
+- 🚢 **Microservices Architect** - Designed and deployed cloud-native microservices platforms on Azure AKS with ACR integration
+
+### CI/CD & DevOps
+- 🚀 **GitOps Pioneer** - Implemented Argo CD for declarative, GitOps-based continuous Kubernetes deployments
+- ⚙️ **Pipeline Automation Expert** - Designed Azure DevOps pipelines with YAML templates, approvals, and environment management
+- 🔄 **GitHub Actions Specialist** - Built automated workflows for build, test, and deployment automation
+- 📋 **Release Engineering Master** - Orchestrated complex release workflows with automated testing and validation
+
+### DevSecOps & Security
+- 🔒 **DevSecOps Champion** - Integrated security scanning with Trivy, Checkov, Gitleaks, TFLint, and SonarQube in delivery pipelines
+- 🛡️ **Infrastructure Security Architect** - Designed defense-in-depth security controls for cloud-native platforms
+- 🔐 **Secrets Management Expert** - Implemented secure secrets handling and rotation policies
+- ✅ **Compliance Automation Lead** - Automated compliance scanning and policy enforcement in infrastructure
+
+### Monitoring & Observability
+- 📊 **Prometheus & Grafana Master** - Designed comprehensive monitoring and alerting solutions for cloud platforms
+- 👁️ **Azure Monitor Expert** - Implemented Azure Monitor, Application Insights, and Log Analytics for end-to-end observability
+- 📈 **Platform Reliability Engineer** - Engineered high-availability, resilient systems with advanced monitoring
+- 🔔 **Alert Strategy Designer** - Built intelligent alerting frameworks for proactive incident prevention
+
+### Automation & Tooling
+- 🐍 **Python DevOps Automation** - Developed Python-based tools for Azure resource management, health checks, and operational automation
+- 🔧 **Bash Scripting Expert** - Created robust Linux administration and automation scripts for operational efficiency
+- 🤖 **Workflow Automation Lead** - Built end-to-end automation workflows reducing manual operations by 80%
+- 📝 **Infrastructure Documentation Master** - Maintained comprehensive, up-to-date documentation for complex systems
+
+### Application Development
+- ⚛️ **Full-Stack Developer** - Built React-based UIs with TypeScript and JavaScript for modern applications
+- 🔗 **Microservices Backend Engineer** - Developed Python monolithic and microservices backends with production standards
+- 🌍 **Geospatial Platform Innovator** - Created real-time spatial intelligence and situational awareness platforms
+- ✅ **Todo App Architect** - Designed and implemented complete full-stack todo applications with modern patterns
+
+### Leadership & Impact
+- 🎯 **25+ Production Projects** - Shipped and maintained multiple production-grade cloud-native applications
+- 👥 **Team Enabler** - Created reusable patterns, templates, and best practices for team productivity
+- 📚 **Knowledge Sharing** - Documented complex infrastructure patterns for team learning and adoption
+- 🏅 **Consistent Contributor** - Active GitHub contributor with deep expertise across DevOps, Cloud, and Full-Stack domains
+
+---
+
 ## Featured repositories
 
 ### Cloud and platform engineering
@@ -148,17 +201,6 @@ A broader set of labs and experiments covering platform engineering, infra autom
 - attendenceap
 - legacy-Traderstocks
 - etc.
-
----
-
-## Achievements
-
-- 🏆 Built and deployed production-grade Azure AKS environments
-- 🚀 Implemented GitOps workflows with Argo CD for continuous delivery
-- 🔒 Integrated DevSecOps scanning with Trivy, Checkov, Gitleaks, and SonarQube
-- ⚙️ Designed Terraform-based Azure landing zones and modular infrastructure
-- ☁️ Automated Kubernetes, Docker, Helm, and release workflows for cloud-native platforms
-- 📈 Delivered end-to-end CI/CD and pipeline automation for secure deployments
 
 ---
 
