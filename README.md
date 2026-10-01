@@ -8,7 +8,7 @@
 
 </div>
 
-I build secure, scalable, and production-ready cloud platforms with a focus on Azure, Kubernetes, Terraform, CI/CD, and GitOps. I enjoy turning infrastructure complexity into clean, reusable systems that teams can trust and operate efficiently.
+I build secure, scalable, and production-ready cloud platforms with a focus on Azure, Kubernetes, Terraform, CI/CD, and GitOps. I enjoy turning infrastructure complexity into clean, reusable systems that support reliable software delivery.
 
 ## Core focus
 
@@ -148,6 +148,17 @@ A broader set of labs and experiments covering platform engineering, infra autom
 - attendenceap
 - legacy-Traderstocks
 - etc.
+
+---
+
+## Achievements
+
+- 🏆 Built and deployed production-grade Azure AKS environments
+- 🚀 Implemented GitOps workflows with Argo CD for continuous delivery
+- 🔒 Integrated DevSecOps scanning with Trivy, Checkov, Gitleaks, and SonarQube
+- ⚙️ Designed Terraform-based Azure landing zones and modular infrastructure
+- ☁️ Automated Kubernetes, Docker, Helm, and release workflows for cloud-native platforms
+- 📈 Delivered end-to-end CI/CD and pipeline automation for secure deployments
 
 ---
 
